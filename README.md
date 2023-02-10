@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilay Singh</h1>
-<h3 align="center">A 21 years old self-taught passionate FullStack developer from India 🇮🇳</h3>
-
 
 # 💫 About Me:
-🔭 I’m currently working on blogify (A MERN stack Blog Application )<br><br>🌱 I’m currently learning Next JS & Graph QL<br><br>👯 I’m looking to collaborate on Various Open Source Projects<br><br>👨‍💻 All of my projects are available at codegoggins.netlify.app/<br><br>💬 Ask me about anything on my Github<br><br>📫 How to reach me snilay011@gmail.com<br><br>⚡ Fun fact Into Formula One 🏎️ & Basketball🏀
+🔭 A 21 years old self-taught passionate FullStack developer from India 🇮<br><br>🌱 I’m currently learning Next JS & Graph QL<br><br>👯 I’m looking to collaborate on Various Open Source Projects<br><br>👨‍💻 All of my projects are available at codegoggins.netlify.app/<br><br>💬 Ask me about anything on my Github<br><br>📫 How to reach me snilay011@gmail.com<br><br>⚡ Fun fact I'm into Formula One 🏎️ & Basketball🏀
 
 
 ## 🌐 Socials:
