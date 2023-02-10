@@ -3,6 +3,8 @@
 # 💫 About Me:
 🔭 A 21 years old self-taught passionate FullStack developer from India 🇮<br><br>🌱 I’m currently learning Next JS & Graph QL<br><br>👯 I’m looking to collaborate on Various Open Source Projects<br><br>👨‍💻 All of my projects are available at codegoggins.netlify.app/<br><br>💬 Ask me about anything on my Github<br><br>📫 How to reach me snilay011@gmail.com<br><br>⚡ Fun fact I'm into Formula One 🏎️ & Basketball🏀
 
+![giphy](https://user-images.githubusercontent.com/97434903/218042975-cc4dd62e-130c-4538-95bf-da2627b33a65.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilaayysingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nilay-singh-7234a31a6/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:21050346) 
