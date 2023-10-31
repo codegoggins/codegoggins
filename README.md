@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilay Singh</h1>
 
 # 💫 About Me:
-🔭 A 21 years old self-taught passionate FullStack developer from India 🇮<br><br>🌱 I’m currently learning TypeScript<br><br>👯 I’m looking to collaborate on Various Open Source Projects<br><br>👨‍💻 All of my projects are available at codegoggins.netlify.app/<br><br>💬 Ask me about anything on my Github<br><br>📫 How to reach me snilay011@gmail.com<br><br>⚡ Fun fact I'm into Formula One 🏎️ & Basketball🏀
+🔭 A 21 years old self-taught passionate FullStack developer from India 🇮<br><br>🌱 I’m currently learning TypeScript & React Native<br><br>👯 I’m looking to collaborate on Various Open Source Projects<br><br>👨‍💻 All of my projects are available at codegoggins.netlify.app/<br><br>💬 Ask me about anything on my Github<br><br>📫 How to reach me snilay011@gmail.com<br><br>⚡ Fun fact I'm into Formula One 🏎️ & Basketball🏀
 
 ![giphy](https://user-images.githubusercontent.com/97434903/218042975-cc4dd62e-130c-4538-95bf-da2627b33a65.gif)
 
